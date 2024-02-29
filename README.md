@@ -19,24 +19,24 @@ visualization library : D3.js <br>
 
 #### Develoment process :
 ##### BACK end:
-	# Implement API end points  server side <br>
-	% Fuctionalities like :			<br>
-		* clone or access git repo      <br>
-		* parse code base using libraries  <br>
- 		* Extract info about classes, methods and their relations  <br>
-		* prepare data for front end visulaization 	<br>
+	# Implement API end points  server side
+	% Fuctionalities like :		
+		* clone or access git repo     
+		* parse code base using libraries  
+ 		* Extract info about classes, methods and their relations 
+		* prepare data for front end visulaization 
 
 ##### Front end:  <br>
 	# Design UI for input user data  to input Git Repo  <br>
-		% implment logic to :		<br>
-		* Fetch data from backend ApI on user 	<br>	
-		*  utilizing visulization library to render node-link diagram <br>	
-		* Features like Zoom, pannig , filter  <br>	
-		$ integrate front end and backend <br>		
+		% implment logic to :	
+		* Fetch data from backend ApI on user 		
+		*  utilizing visulization library to render node-link diagram 
+		* Features like Zoom, pannig , filter  
+		$ integrate front end and backend 	
 
 ##### Things to consider :   <br>
-	* fetchind git repo data  <br>
-	* Core logic :  Parsing code javaCC <br>
-	:	preparing data for visualization ,  <br>
+	* fetchind git repo data 
+	* Core logic :  Parsing code javaCC 
+	:	preparing data for visualization ,
 	: 	core feture from "D3.JS " library . imp for node link diagram genration  <br>
- 	> generating the disgram from the libraryD3  <br>
+ 	> generating the disgram from the libraryD3 
