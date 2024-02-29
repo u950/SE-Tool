@@ -7,10 +7,10 @@ parsing library : ANTLR or JavaCC parsing Java Source code <br>
 visualization library : D3.js <br>
 
 ##### Back end :
-	programming language : Java JS <br>
-	web frame work : node js  <br>	
-	Git intaction : JGIT  <br>
-	Code parsing : ANTlR OR javacc  <br>
+	programming language : Java JS
+	web frame work : node js 	
+	Git intaction : JGIT  
+	Code parsing : ANTlR OR javacc 
 
 #### Front ENd :
 	HTML ,CSS, REACT
@@ -18,7 +18,7 @@ visualization library : D3.js <br>
 
 
 #### Develoment process :
-@ BACK end:
+##### BACK end:
 	# Implement API end points  server side <br>
 	% Fuctionalities like :			<br>
 		* clone or access git repo      <br>
@@ -26,7 +26,7 @@ visualization library : D3.js <br>
  		* Extract info about classes, methods and their relations  <br>
 		* prepare data for front end visulaization 	<br>
 
-@ Front end:  <br>
+##### Front end:  <br>
 	# Design UI for input user data  to input Git Repo  <br>
 		% implment logic to :		<br>
 		* Fetch data from backend ApI on user 	<br>	
@@ -34,7 +34,7 @@ visualization library : D3.js <br>
 		* Features like Zoom, pannig , filter  <br>	
 		$ integrate front end and backend <br>		
 
-Things to consider :   <br>
+##### Things to consider :   <br>
 	* fetchind git repo data  <br>
 	* Core logic :  Parsing code javaCC <br>
 	:	preparing data for visualization ,  <br>
