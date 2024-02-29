@@ -2,8 +2,7 @@
 to develop a tool for SE course : JAVA codebase visulization
 
 # implementation
-tool :
-JGIT : interacting with git repo 
+## JGIT : interacting with git repo 
 parsing library : ANTLR or JavaCC parsing Java Source code
 visualization library : D3.js
 
